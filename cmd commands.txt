@@ -1,0 +1,7 @@
+netsh winhttp set proxy 127.0.0.1:8888
+netsh winhttp reset proxy 
+
+Don't Install anything without watching this video.
+Watch the Video Carefully, to install this software harmlessly.
+
+https://youtu.be/Ytz8hFGC3x8
